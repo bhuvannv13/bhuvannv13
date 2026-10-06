@@ -2,6 +2,8 @@
 
 I work on AI in medicine and medical research at UCD, with a focus on deep learning, computer vision and explainable models for healthcare data.
 
+**Portfolio:** [bhuvannv13.github.io](https://bhuvannv13.github.io) | **LinkedIn:** [bhuvann-vinodh-ram](https://www.linkedin.com/in/bhuvann-vinodh-ram-5545b3210/)
+
 ## Selected projects
 
 | Project | What it does |
